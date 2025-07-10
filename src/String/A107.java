@@ -21,6 +21,7 @@ public static void getFrequency(String [] str) {
 				j--;n--;
 			}
 		}
+		
 		if(max<count) 
 			max=count;
 			 
